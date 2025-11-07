@@ -36,6 +36,6 @@
 ### Installation
 ```bash
 git clone https://github.com/whoImm/SyntaxWeaver.git
-cd synweave
+cd SyntaxWeaver
 pip install -r requirements.txt
-python main.py
+python3 main.py
